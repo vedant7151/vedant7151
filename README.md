@@ -140,8 +140,6 @@ const vedant = {
   <img src="https://raw.githubusercontent.com/vedant7151/vedant7151/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> ⚙️ To enable the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` → [See setup guide](https://github.com/Platane/snk)
 
 ---
 
